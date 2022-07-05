@@ -1,7 +1,13 @@
 // Variables for CSS Zen Garden
 // Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Orbitron&display=swap');
+
 $header-font: Georgia, serif;
 $body-font: Verdana, Arial, sans-serif;
+
+$header-font: 'Kdam Thmor Pro', sans-serif;
+$body-font: 'Orbitron', sans-serif;
 
 // Font Size
 $large-title: 6rem;
